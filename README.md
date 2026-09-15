@@ -51,7 +51,7 @@
 
 ## Live
 
-<img src="https://github-readme-stats.hackclub.dev/api?username=ii-reviewer&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&hide_title=true&bg_color=0d1117" height="165" alt="stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ii-reviewer&theme=github_dark" height="165" alt="stats" />
 <img src="https://streak-stats.demolab.com?user=ii-reviewer&theme=github-dark-blue&hide_border=true&background=0d1117" height="165" alt="streak" />
 
 <img src="https://ghchart.rshah.org/58a6ff/ii-reviewer" width="100%" alt="contributions" />
@@ -63,7 +63,7 @@
 ## Featured
 
 <a href="https://github.com/ii-reviewer/go-backend-standards">
-  <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=ii-reviewer&repo=go-backend-standards&theme=github_dark&hide_border=true&bg_color=0d1117" alt="go-backend-standards" />
+  <img src="https://gh-card.dev/repos/ii-reviewer/go-backend-standards.svg?fullname=" alt="go-backend-standards" />
 </a>
 
 <sub>Go backend standards as a Claude Code skill — everything I keep flagging in review, written down once.</sub>
